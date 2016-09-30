@@ -1,0 +1,39 @@
+{
+  "short_name": "UX King",
+  "name": "UX King - Design Agentur Berlin",
+  "icons": [
+    {
+      "src": "../assets/img/android-chrome-36x36-v1.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/android-chrome-48x48-v1.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/android-chrome-72x72-v1.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/android-chrome-96x96-v1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/android-chrome-144x144-v1.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/android-chrome-192x192-v1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://www.ux-king.com/"
+}
