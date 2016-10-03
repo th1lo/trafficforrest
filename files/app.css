@@ -1202,7 +1202,7 @@ h2 {
       max-width: 1074px !important;}
     .footer-bar a {
       border: solid 1px #96B831;
-      color: rgba(255, 255, 255, 0.9);
+      color: rgba(255, 255, 255, 0.9); 
       padding: 7px 15px;
       border-radius: 3px;
     }
