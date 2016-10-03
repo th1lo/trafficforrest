@@ -391,7 +391,7 @@ html, body {
   height: 100%; }
 
 a {
-  color: #FEB901;
+  color: #96B831;
   text-decoration: none;
   font-weight: 400; }
   a:hover {
@@ -411,7 +411,7 @@ h2 {
 
 .red-period:after {
   content: '.';
-  color: #FEB901; }
+  color: #96B831; }
 
 /**
  * ux-king - Site Header
@@ -484,7 +484,7 @@ h2 {
   z-index: 1;
   width: 100%;
   height: 100%;
-  background: center center no-repeat;
+  background: url('../assets/img/herobg.jpg') center center no-repeat;
   background-size: cover;}
   #hero .memo {
     position: absolute;
@@ -492,7 +492,7 @@ h2 {
     left: 50%;
     width: 80%;
     max-width: 700px;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     line-height: 1.4;
     letter-spacing: 0.025em;
@@ -681,7 +681,7 @@ h2 {
     font-weight: 700;
     letter-spacing: 0.025em;
     text-transform: uppercase;
-    background: #FEB901;
+    background: #96B831;
     transition: height 300ms ease; }
     .ux-king-menu .link span {
       position: relative;
@@ -693,7 +693,7 @@ h2 {
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%); }
     .ux-king-menu .link.two {
-      background-color: #FEB901; }
+      background-color: #96B831; }
     .ux-king-menu .link.three {
       background-color: #FE9201; }
     .ux-king-menu .link:hover {
@@ -769,9 +769,9 @@ h2 {
    display: inline-block;
    height: 3em;
    width: 400px;
-   background-color: #FEB901;
+   background-color: #96B831;
    margin: 2em auto;
-   box-shadow: 0 25px 40px -20px rgba(254,146,1,0.3);
+   box-shadow: 0 25px 40px -20px rgba(150,184,49,0.3);
    text-align: center;
    padding-top: 27px;
    color: #ffffff;
@@ -782,7 +782,7 @@ h2 {
    transition: box-shadow .4s;
  }
  .btn:hover {
-   box-shadow: 0 25px 40px -20px rgba(254,146,1,0.6);
+   box-shadow: 0 25px 40px -20px rgba(150,184,49,0.6);
    color: #FFF;
 
  }
@@ -798,7 +798,7 @@ h2 {
   padding: 120px;
   background-color: #f8f8f8; }
   .section.section-red {
-    background-color: #FEB901; }
+    background-color: #96B831; }
   .section.section-blue {
     background-color: #303236; }
   .section.section-blue {
@@ -920,7 +920,7 @@ h2 {
     line-height: 1; }
     .page-about .we-do .content .title:after, .page-home .we-do .content .title:after {
       content: '.';
-      color: #FEB901; }
+      color: #96B831; }
   .page-about .we-do .content .wrapper, .page-home .we-do .content .wrapper {
     position: absolute;
     top: 60%;
@@ -931,7 +931,7 @@ h2 {
 
 .page-about .we-do .graphic, .page-home .we-do .graphic {
   padding: 0 0 40% 0;
-  background: #FEB901;
+  background: #96B831;
   overflow: hidden;
   background-size: cover; }
 
@@ -992,7 +992,7 @@ h2 {
       font-size: 16px;
       line-height: 1;
       font-weight: 700;
-      color: #FEB901; }
+      color: #96B831; }
     .page-about .how-we .cell .words, .page-home .how-we .cell .words {
       color: #929292; }
     .page-about .how-we .cell .wrapper, .page-home .how-we .cell .wrapper {
@@ -1016,17 +1016,17 @@ h2 {
         background-repeat: no-repeat;
         background-position: center center; }
         .page-about .how-we .cell .card .graphic.user-testing, .page-home .how-we .cell .card .graphic.user-testing {
-          background-image: url("../assets/img/icn_user-testing.svg"); }
+          background-image: url("../assets/img/mobile-acquisition.svg"); }
         .page-about .how-we .cell .card .graphic.ui-design, .page-home .how-we .cell .card .graphic.ui-design {
-          background-image: url("../assets/img/icn_ui-design.svg"); }
+          background-image: url("../assets/img/performance-network.svg"); }
         .page-about .how-we .cell .card .graphic.prototyping, .page-home .how-we .cell .card .graphic.prototyping {
-          background-image: url("../assets/img/icn_prototyping.svg"); }
+          background-image: url("../assets/img/creative-development.svg"); }
         .page-about .how-we .cell .card .graphic.interaction-design, .page-home .how-we .cell .card .graphic.interaction-design {
-          background-image: url("../assets/img/icn_interaction-design.svg"); }
+          background-image: url("../assets/img/conversion-optimizisation.svg"); }
         .page-about .how-we .cell .card .graphic.discovery, .page-home .how-we .cell .card .graphic.discovery {
-          background-image: url("../assets/img/icn_discovery.svg"); }
+          background-image: url("../assets/img/mobile-consultancy.svg"); }
         .page-about .how-we .cell .card .graphic.wireframing, .page-home .how-we .cell .card .graphic.wireframing{
-          background-image: url("../assets/img/icn_wireframing.svg"); }
+          background-image: url("../assets/img/media-buying.svg"); }
   @media only screen and (min-width: 764px) and (max-width: 1023px) {
     .page-about .how-we .cell, .page-home .how-we .cell {
       width: 50%; }
@@ -1185,7 +1185,7 @@ h2 {
       font-weight: 700;
       text-transform: uppercase; }
   .page-about .contact .footer-bar, .page-home .contact .footer-bar {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -1193,7 +1193,7 @@ h2 {
     color: #FFF;
     line-height: 70px;
     text-align: center;
-    background: #303236;
+    background: rgba(92, 92, 92, 0.9);
     transition: background-color 150ms ease; }
     .page-about .contact .footer-bar > a, .page-home .contact .footer-bar > a {
       width: 100%;
@@ -1201,11 +1201,14 @@ h2 {
     .footer-bar .section-content {
       max-width: 1074px !important;}
     .footer-bar a {
-      color: #57616C;
+      border: solid 1px #96B831;
+      color: rgba(255, 255, 255, 0.9);
+      padding: 7px 15px;
+      border-radius: 3px;
     }
 
     .footer-bar a:hover {
-      color: #FEB102;
+      color: #96B831;
       transition: all 0.5s ease;
     }
     .socials a.facebook {

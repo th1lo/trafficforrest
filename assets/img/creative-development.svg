@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>creative-development</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="creative-development" stroke-width="2">
+            <g id="Group" transform="translate(17.000000, 7.000000)">
+                <path d="M51.6578947,44.3947368 L55.2894737,44.3947368 C61.307,44.3947368 66.1842105,49.2719474 66.1842105,55.2894737 C66.1842105,61.307 61.307,66.1842105 55.2894737,66.1842105 L51.6578947,66.1842105" id="Stroke-2392" stroke="#FFFFFF"></path>
+                <path d="M51.6578947,77.0789474 C51.6578947,81.0882105 48.4076316,84.3421053 44.3947368,84.3421053 L11.7105263,84.3421053 C7.69763158,84.3421053 4.44736842,81.0882105 4.44736842,77.0789474 L4.44736842,37.1315789 L51.6578947,37.1315789 L51.6578947,77.0789474 L51.6578947,77.0789474 Z" id="Stroke-2393" stroke="#FFFFFF"></path>
+                <path d="M40.7631579,37.1315789 L50.2379474,20.1103684" id="Stroke-2395" stroke="#FFFFFF"></path>
+                <path d="M53.9842842,21.3567263 L48.0248632,37.1323053" id="Stroke-2396" stroke="#FFFFFF"></path>
+                <path d="M51.2268263,1.04821053 C54.9746158,6.76431579 49.4219316,9.89836842 48.1290895,12.9670526 C46.7599842,16.2136842 48.0927737,19.3295789 51.3430368,20.6986842 C61.8746158,25.1364737 65.0086684,4.382 51.2268263,1.04821053 L51.2268263,1.04821053 Z" id="Stroke-2394" stroke="#96B831"></path>
+                <polygon id="Stroke-2397" stroke="#FFFFFF" points="18.9736842 37.1315789 8.07894737 37.1315789 2.63157895 26.2368421 0.815789474 15.3421053 9.89473684 20.7894737"></polygon>
+                <path d="M2.63157895,26.2368421 L9.89473684,20.7894737" id="Stroke-2398" stroke="#FFFFFF"></path>
+                <path d="M37.1315789,8 L29.8684211,8" id="Stroke-2400" stroke="#96B831"></path>
+                <path d="M37.1315789,15 L33.5,15" id="Stroke-2401" stroke="#96B831"></path>
+                <path d="M37.1315789,22 L29.8684211,22" id="Stroke-2402" stroke="#96B831"></path>
+                <path d="M37.1315789,29 L33.5,29" id="Stroke-2403" stroke="#96B831"></path>
+                <polygon id="Stroke-2399" stroke="#FFFFFF" points="37.1315789 0.815789474 22.6052632 0.815789474 22.6052632 37.1315789 37.1315789 37.1315789"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

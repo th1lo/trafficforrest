@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="39px" viewBox="0 0 64 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
     <title>mail</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mail" transform="translate(1.000000, 1.000000)" stroke-width="2" stroke="#FEB901">
-            <g id="Group">
-                <rect id="Rectangle-path" x="0" y="0" width="62" height="37"></rect>
-                <polyline id="Shape" points="0 0 31 20 62 0"></polyline>
+        <g id="mail" transform="translate(1.000000, 1.000000)" stroke-width="2" stroke="#96B831">
+            <g id="Page-1">
+                <g id="mail">
+                    <g id="Group">
+                        <rect id="Rectangle-path" x="0" y="0" width="62" height="37"></rect>
+                        <polyline id="Shape" points="0 0 31 20 62 0"></polyline>
+                    </g>
+                </g>
             </g>
         </g>
     </g>

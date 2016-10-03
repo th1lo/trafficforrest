@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile-acquisition</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.5,11 C11.5,10.171 10.829,9.5 10,9.5 C9.172,9.5 8.5,10.171 8.5,11 L8.5,12.5 L11.5,12.5 L11.5,11 L11.5,11 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="3" height="3" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M21.0015714,5.36144978 C21.869,5.36144978 22.573,6.06544978 22.573,6.93287835 C22.573,7.80030692 21.869,8.50430692 21.0015714,8.50430692 C20.1341429,8.50430692 19.4301429,7.80030692 19.4301429,6.93287835 C19.4301429,6.06544978 20.1341429,5.36144978 21.0015714,5.36144978 L21.0015714,5.36144978 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="7.14285714" height="7.14285714">
+            <rect x="17.4301429" y="3.36144978" width="7.14285714" height="7.14285714" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="mobile-acquisition">
+            <g id="Stroke-109-+-Stroke-111-+-Stroke-113" transform="translate(40.000000, 38.000000)" stroke-linecap="round">
+                <path d="M6.5,20.5 L6.5,11 C6.5,9.068 8.067,7.5 10,7.5 C11.934,7.5 13.5,9.068 13.5,11 L13.5,20.5" id="Stroke-109" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M1.83701007,16.3118647 C0.911550931,14.7360876 0.375525,12.8732321 0.375525,10.8778787 C0.375525,5.21517636 4.68446273,0.625075 10.0003,0.625075 C15.3161373,0.625075 19.625075,5.21517636 19.625075,10.8778787 C19.625075,12.8826962 19.0846069,14.7550159 18.1487826,16.335525" id="Stroke-111" stroke="#96B831" stroke-width="2"></path>
+                <use id="Stroke-113" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group" transform="translate(29.000000, 13.000000)" stroke="#FFFFFF">
+                <path d="M0.573,6.93287835 C0.573,3.46316406 3.38585714,0.647164062 6.85871429,0.647164062 L35.1444286,0.647164062 C38.6172857,0.647164062 41.4301429,3.46316406 41.4301429,6.93287835 L41.4301429,66.6471641 C41.4301429,70.1200212 38.6172857,72.9328783 35.1444286,72.9328783 L6.85871429,72.9328783 C3.38585714,72.9328783 0.573,70.1200212 0.573,66.6471641 L0.573,6.93287835 L0.573,6.93287835 Z" id="Stroke-309" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0.573,13 L41.4301429,13" id="Stroke-310" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M0.573,60 L41.4301429,60" id="Stroke-311" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M28.8587143,66 L13.1444286,66" id="Stroke-312" stroke-width="2" stroke-linecap="round"></path>
+                <use id="Stroke-313" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
